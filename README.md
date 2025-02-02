@@ -38,6 +38,9 @@
  
   ![Screenshot 2025-02-02 161147](https://github.com/user-attachments/assets/81514a56-9008-4b64-94ca-3993a7e9ae87)
 
+  ![image](https://github.com/user-attachments/assets/53c2b3d7-b58b-4c92-a268-1df9d888cdf2)
+
+
   #### 5. Pandas for data analysis 
   
   ![image](https://github.com/user-attachments/assets/bada579e-1822-484d-9ca5-25c3627659ea)
