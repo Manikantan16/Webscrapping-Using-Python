@@ -30,7 +30,7 @@
   
   ![image](https://github.com/user-attachments/assets/3cecd9c6-0d8c-4611-8b73-885d451b10a0)
   
-  #### 3. BeautifulSoup4 for parsing HTML structures
+  #### 3. BeautifulSoup for parsing and extract the details from the html elements
   
   ![image](https://github.com/user-attachments/assets/6c37161e-38f0-4464-a9db-239626d01fe7)
 
