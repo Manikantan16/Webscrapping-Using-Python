@@ -16,3 +16,32 @@
 #### Example with BeautifulSoup and requests:
 ![image](https://github.com/user-attachments/assets/3ba77003-e792-491c-a0d6-52a4f7dad216)
 
+#### In my case i am navigating the Flipkart website and searching the items by Rice Cooker:
+![WS_SS](https://github.com/user-attachments/assets/b6fdb4d6-eba8-48cd-8508-55035b63eb26)
+
+#### Using Webscrapping we collect data from a flipkart, and export it into CSV files, and transforming it into insightful Pandas DataFrames.
+#### Here’s a step-by-step breakdown of our code:
+  
+  #### 1. Import essential libraries:
+  
+  ![image](https://github.com/user-attachments/assets/1dc9f93b-208e-4309-8328-205e1ae8d1d0)
+  
+  #### 2. requests for fetching web content
+  
+  ![image](https://github.com/user-attachments/assets/3cecd9c6-0d8c-4611-8b73-885d451b10a0)
+  
+  #### 3. BeautifulSoup4 for parsing HTML structures
+  
+  ![image](https://github.com/user-attachments/assets/6c37161e-38f0-4464-a9db-239626d01fe7)
+
+  #### 4. Using the browser's "Inspect Element" feature, we navigate to the relevant "div" section and extract the necessary details of the required elements.
+ 
+  ![Screenshot 2025-02-02 161147](https://github.com/user-attachments/assets/81514a56-9008-4b64-94ca-3993a7e9ae87)
+
+  #### 5. Pandas for data analysis 
+  
+  ![image](https://github.com/user-attachments/assets/bada579e-1822-484d-9ca5-25c3627659ea)
+
+  #### 6. Finally exporting the data to csv
+  ![image](https://github.com/user-attachments/assets/3ee46300-dc41-42bf-a0ba-4a8b0c515584)
+
