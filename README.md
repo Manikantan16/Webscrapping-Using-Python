@@ -19,7 +19,7 @@
 #### In my case i am navigating the Flipkart website and searching the items by Rice Cooker:
 ![WS_SS](https://github.com/user-attachments/assets/b6fdb4d6-eba8-48cd-8508-55035b63eb26)
 
-#### Using Webscrapping we collect data from a flipkart, and export it into CSV files, and transforming it into insightful Pandas DataFrames.
+#### Using Webscrapping we collect data insights from flipkart website, and export it into CSV files, and transforming it into insightful Pandas DataFrames.
 #### Here’s a step-by-step breakdown of our code:
   
   #### 1. Import essential libraries:
